@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Snake gif] (https://github.com/sherry-design/sherry-design/blob/main/output/github-contribution-grid-snake.gif)
 
 <!--
 **sherry-design/sherry-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
